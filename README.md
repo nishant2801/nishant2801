@@ -6,6 +6,7 @@ Hi there 👋 Here is the stuff i have learnt and still learning
 
 My Skills :
 Programming Languages : C, C++, python
+
 Databases : MySQL
 
 Along with a little bit of experience in cloud deployment of application and machine learning
